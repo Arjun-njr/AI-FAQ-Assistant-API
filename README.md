@@ -1,4 +1,14 @@
  AI FAQ Assistant API and customer support automation. 
+project title- AI FAQ Assistant
+team-35
+team id-6aba5e4dca93a2750964bd18
+team leader-Arjun R
+team members-
+Sanjay k
+lavanya M
+Ayyanar E
+Barath K
+
 
 Description
 The AI FAQ Assistant is a robust, secure, and intelligent REST API platform designed to streamline FAQ creation, user authentication, and AI-powered content management. Built with Node.js and Express.js, the application utilizes MongoDB as its primary data store along with Mongoose ODM for elegant data modeling and schema validation.
